@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\bin\Debug\Virus Studio.exe.config
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\bin\Debug\Virus Studio.exe
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\bin\Debug\Virus Studio.pdb
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus Studio.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus_Studio.main.resources
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus_Studio.Properties.Resources.resources
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus Studio.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus Studio.exe
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus Studio.pdb
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus Studio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Visual Studio Projects\Virus Studio\obj\Debug\Virus_Studio.News.resources
