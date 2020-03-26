@@ -39,6 +39,8 @@ namespace Virus_Studio
                 config.setLanguage(Configuration.lang.español);
             else if (ci.Name == "en-EN")
                 config.setLanguage(Configuration.lang.english);
+
+            user_control_2.Enabled = false;
         }
 
         private void btn_4_Click(object sender, EventArgs e)
@@ -48,7 +50,7 @@ namespace Virus_Studio
 
         private void user_control_1_Load(object sender, EventArgs e)
         {
-
+            
         }
     }
 }

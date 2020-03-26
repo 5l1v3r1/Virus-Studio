@@ -35,6 +35,7 @@
             this.btn_1 = new System.Windows.Forms.Button();
             this.txt_1 = new System.Windows.Forms.Label();
             this.user_control_1 = new Virus_Studio.News();
+            this.user_control_2 = new Virus_Studio.Creator_1();
             this.p_1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -112,6 +113,14 @@
             this.user_control_1.TabIndex = 1;
             this.user_control_1.Load += new System.EventHandler(this.user_control_1_Load);
             // 
+            // user_control_2
+            // 
+            this.user_control_2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(14)))), ((int)(((byte)(36)))));
+            this.user_control_2.Location = new System.Drawing.Point(164, 12);
+            this.user_control_2.Name = "user_control_2";
+            this.user_control_2.Size = new System.Drawing.Size(535, 426);
+            this.user_control_2.TabIndex = 2;
+            // 
             // main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -120,6 +129,7 @@
             this.ClientSize = new System.Drawing.Size(711, 450);
             this.Controls.Add(this.user_control_1);
             this.Controls.Add(this.p_1);
+            this.Controls.Add(this.user_control_2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "main";
@@ -142,6 +152,7 @@
         private System.Windows.Forms.Button btn_3;
         private System.Windows.Forms.Button btn_2;
         private News user_control_1;
+        private Creator_1 user_control_2;
     }
 }
 
